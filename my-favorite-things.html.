@@ -7,3 +7,24 @@
 
    <landcruiser v8>
    </html>
+  <p>Hello,world!</P>
+  <P>Welcome to my first web page!</p>
+</body>
+</html>
+<h1>My-favorite-things.html.</h1>
+ <h2>Written with a little guidance from Moringa School</h2>
+
+
+   <p>Hello,world!</p>
+   <p>Welcome to my-favorite-things page!</p>
+</body>
+</html>
+<p>Here are some things I'm going to learn about coding:</p>
+
+     <Ul>
+     <li>HTML</li>
+     <li>CSS</li>
+     <li>Javascript</li>
+  </ul>
+</body>
+</html>
